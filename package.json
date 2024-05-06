@@ -1,0 +1,16 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "a jest demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "kingsong",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "jest": "^29.7.0"
+  }
+}
